@@ -1,4 +1,4 @@
 [submodule "minecraft-data"]
 	path = minecraft-data
 	url = https://github.com/jensjeflensje/minecraft-data.git
-	branch = pc26.2-support
+	branch = pc26.3-support
